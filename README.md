@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="utf-8">
+  <title>Livia's Personal Site</title>
+</head>
+
+ <body>
+   <table cellspacing = "20">
+    <tr>
+      <td><img src="fotolivia.png" alt="Foto de Lívia"></td>
+      <td><h1> Lívia Maria Timóteo </h1>
+        <p><em>Tentando aprender programação, mas <strong>procrastinando como sempre!</strong> </em></p>
+        <p>Estou o dia todo tentando finalizar esse módulo de estudo e eu paro pra ver tiktoks totalmente irresponsável fml.</p></td>
+     </tr>
+   </table>
+<hr size = "3" noshade>
+
+<h3> Education </h3>
+<ul>
+<li> Serviço Social - <a href="https://www.unifesp.br">Universidade Federal de São Paulo</a>
+<li> Secretariado - ETEC Presidente Vargas
+</ul>
+<hr size = "3" noshade />
+<h3> Experiência</h3>
+
+<table cellspacing="10">
+  <thead>
+    <tr>
+      <th>Período</th>
+      <th> Função</th>
+      <th> Empresa</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Atualmente</b></td>
+      <td>Auxiliar de Qualidade</td>
+      <td>Grupo Faberge</td>
+    </tr>
+    <tr>
+      <td><b>2019-2020</b></td>
+      <td>Jovem Aprendiz</td>
+      <td>Grupo Faberge</td>
+    </tr>
+  </tbody >
+</table>
+<hr size = "3" noshade/>
+<h3> Skills</h3>
+<table cellspacing = "10">
+  <tbody>
+    <tr>
+      <td>Inglês</td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td>Comunicação</td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+    <td>Proatividade</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>Trabalho em Equipe</td>
+    <td>⭐⭐⭐</td>
+   </tr>
+  </tbody>
+  </thead>
+</table>
+<a href="arquivos/hobbies.html">Hobbies</a>
+<a href="arquivos/contatos.html">Me Contate</a>
+<hr size ="3" noshade>
+<a href="arquivos/desafio.html">desafio</a>
+  </body>
+ </html>
